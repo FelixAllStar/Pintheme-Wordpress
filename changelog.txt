@@ -1,0 +1,133 @@
+---------------------------------------------------------------
+Release notes for theme
+---------------------------------------------------------------
+
+Theme Name: PinThis
+Version: 1.6.5
+by PixelBeautify
+http://pixelbeautify.com
+
+---------------------------------------------------------------
+Changelog
+---------------------------------------------------------------
+
+v1.6.7 (15.10.17)
+- Updated: JS Libraries
+
+v1.6.6 (11.07.17)
+- Fixed: Wordpress 4.8 Style Editor
+- Updated: jQuery Masonry
+- Updated: jQuery ImagesLoaded
+- Updated: Magnific Popup
+
+v1.6.5 (04.02.17)
+- Fixed: Child Theme
+- Fixed: SSL Font Issue - PB Panel
+- Updated: jQuery Masonry
+- Updated: jQuery ImagesLoaded
+
+v1.6.4 (06.09.16)
+- Updated: SEO - Headings optimization
+
+v1.6.3 (22.07.16)
+- Removed: BFI_Thumb (IMPORTANT: All existing customers have to regenerate the pictures with this plugin https://wordpress.org/plugins/regenerate-thumbnails/)
+
+v1.6.2 (19.07.16)
+- Fixed: PHP mbstring error
+
+v1.6.1 (30.06.16)
+- Updated: BFI Thumb
+- Updated: JS Libraries
+- Fixed: Child Theme
+- Fixed: CSS Issues
+- Fixed: WP Media Issues
+
+v1.6.0 (10.03.16)
+- Added: Footer Widget Area
+
+v1.5.3 (04.03.16)
+- Added: New Dummy Content
+- Updated: Masonry Grid and ImagesLoaded
+- Updated: Slider
+- Updated: jScrollPane
+- Updated: Magnific Popup
+- Fixed: Video Play Button
+
+v1.5.2 (23.09.15)
+- Added: Choose the number of displayed columns
+- Improved: Help Documentation
+
+v1.5.1 (22.09.15)
+- Removed: Dummy Content
+
+v1.5.0 (01.09.15)
+- Added: New beautiful skin - Nova (No RTL support)
+- Improved: Speed and Performance Optimization
+- Improved: All CSS Styles
+- Improved: All JS libraries
+- Fixed: Title-tag issues
+- Removed: Character to separate Blog name and Post title (SEO)
+
+v1.4.5 (25.08.15)
+- Fixed: Double title-tag
+- Fixed: JS Bugs
+
+v1.4.4 (22.08.15)
+- Fixed: WP 4.3 Compatibility
+
+v1.4.3 (18.03.15)
+- Improved: Loading Speed
+- Fixed: iOS8 mobile issue
+
+v1.4.2 (10.02.15)
+- Added: Child Theme
+
+v1.4.1 (04.10.14)
+- Fixed: Password protect post issue
+
+v1.4 (18.07.14)
+- Added: Google Adsense
+- Improved: Help Documentation
+- Improved: Translation .pot file
+- Fixed: getimagesize() issue for some hosting servers
+
+v1.3.2 (01.06.14)
+- Improved: Translation .pot file
+
+v1.3.1 (26.05.14)
+- Improved: Speed and Performance Optimization
+- Improved: Dummy content
+
+v1.3 (23.05.14)
+- Added: Post formats Support - Standard, Aside, Image, Quote, Status, Audio, Video
+- Added: Display loading image while page loads
+- Added: Choose whether to show the date and number of comments in pinboxes
+- Added: Button / Link that lets users post a comment in reply to a specific comment. 
+- Improved: Dummy content
+- Improved: Help Documentation
+- Fixed: Youtube fullscreen not working properly on Google Chrome
+
+v1.2 (30.04.14)
+- Added: Responsive Slider
+- Added: Background images for all available skins. Enable / Disable settings.
+- Improved: Dummy content
+- Improved: Translation .pot file
+- Improved: Help Documentation
+- Fixed: Dropdown menus not showing for some mobile devices
+
+v1.1 (25.04.14)
+- Added: RTL support
+- Added: 3 beautiful color skins - Fresh, Tangerine, Blackie
+- Added: Buttons in pinboxes / posts to share on social networks
+- Added: Display previous / next links within the same category as the current post
+- Added: Author’s name in the post now show the posts by the author
+- Added: Dummy content
+- Improved: Translation .pot file
+- Improved: Help Documentation
+
+v1.0.1 (11.04.14)
+- Added: Translation ready
+- Improved: Help Documentation
+
+v1.0 (10.04.14)
+- Initial release
